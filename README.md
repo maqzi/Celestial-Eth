@@ -10,10 +10,10 @@ Sample token and other information:
         Truffle: 5.3.11
 
     Sample ERC-721 Token Name
-        venom
+        Celestial
 
     Sample ERC-721 Token Symbol
-        Vn
+        CSL
 
     Sample “Token Address” on the Ropsten Network
-        https://ropsten.etherscan.io/token/0x258272aef61d4ec056315310f7e2ba247234be6a?a=666
+        https://ropsten.etherscan.io/token/0x5aca6db9bb47d62414c239ec34265979ebf66d18
